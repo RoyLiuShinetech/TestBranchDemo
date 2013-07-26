@@ -10,6 +10,12 @@ namespace Test1
     {
         static void Main(string[] args)
         {
+            Brance1();
+        }
+
+        private static void Brance1()
+        {
+            Console.Write("Work on brance development");
         }
     }
 }
