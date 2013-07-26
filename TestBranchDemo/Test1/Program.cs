@@ -17,5 +17,9 @@ namespace Test1
         {
             Console.Write("Work on brance development");
         }
+
+        private static void MethodInDevelopment()
+        {
+        }
     }
 }
