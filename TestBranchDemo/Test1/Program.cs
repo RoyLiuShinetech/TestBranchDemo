@@ -21,5 +21,9 @@ namespace Test1
         private static void MethodInShinetech()
         {
         }
+
+        private static void MethodInDevelopment()
+        {
+        }
     }
 }
