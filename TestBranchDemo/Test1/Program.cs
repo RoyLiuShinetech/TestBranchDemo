@@ -15,7 +15,7 @@ namespace Test1
 
         private static void Brance1()
         {
-            Console.Write("Work on brance development");
+            Console.Write("Work on brance Shinetech");
         }
     }
 }
