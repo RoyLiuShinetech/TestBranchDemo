@@ -15,11 +15,15 @@ namespace Test1
 
         private static void Brance1()
         {
-            Console.Write("Work on brance abc");
+<<<<<<< HEAD
+            Console.Write("Work on brance def");
         }
 
         private static void MethodInShinetech()
         {
+=======
+            Console.Write("Work on brance abc");
+>>>>>>> development
         }
 
         private static void MethodInDevelopment()
