@@ -16,14 +16,14 @@ namespace Test1
         private static void Brance1()
         {
 <<<<<<< HEAD
-            Console.Write("Work on brance def");
+            Console.Write("Shinetech");
+=======
+            Console.Write("Development");
+>>>>>>> development
         }
 
         private static void MethodInShinetech()
         {
-=======
-            Console.Write("Work on brance abc");
->>>>>>> development
         }
 
         private static void MethodInDevelopment()
