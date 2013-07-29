@@ -6,15 +6,10 @@ using System.Threading.Tasks;
 
 namespace Test1
 {
-    class Class1
+    class Class2
     {
-        private void ShinetechMethod(string develop)
+        private void ShinetechMethod(string shine1)
         {
-        }
-
-        private void ShinetechMethod2(string shine)
-        { 
-
         }
     }
 }

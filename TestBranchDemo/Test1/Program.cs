@@ -15,7 +15,7 @@ namespace Test1
 
         private static void Brance1()
         {
-            Console.Write("Development");
+            Console.Write("Shinetech");
         }
 
         private static void MethodInShinetech()
