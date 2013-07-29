@@ -6,9 +6,9 @@ using System.Threading.Tasks;
 
 namespace Test1
 {
-    class Class2
+    class Class3
     {
-        private void DevelopmentMethod(string shine1)
+        private void DevelopmentMethod(string develop)
         {
         }
     }
