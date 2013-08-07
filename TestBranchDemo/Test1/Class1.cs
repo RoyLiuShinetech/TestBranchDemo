@@ -13,8 +13,8 @@ namespace Test1
         }
 
         private void ShinetechMethod2(string shine)
-        { 
-
+        {
+            string abc = "";
         }
     }
 }
